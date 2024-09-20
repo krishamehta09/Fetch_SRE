@@ -31,4 +31,5 @@ pip install -r requirements.txt
 
 ## Run the Python script with the path to the YAML configuration file:
 python health_check.py endpoints.yaml
+
 You will see the output on the terminal.
