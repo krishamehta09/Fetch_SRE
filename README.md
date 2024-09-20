@@ -21,8 +21,7 @@ This Python program monitors the health of a list of HTTP endpoints provided in 
    ```bash
    git clone https://github.com/krishamehta09/Fetch_SRE.git
 
-## Navigate to the project directory:
-cd health-checker
+## Navigate to the project directory
 
 ## Install the required dependencies:
 pip install -r requirements.txt
